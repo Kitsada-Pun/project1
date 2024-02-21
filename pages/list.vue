@@ -11,10 +11,10 @@
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import { ProductService } from '@/service/ProductService';
+// import { ProductService } from '@/service/ProductService';
 
 onMounted(() => {
-    ProductService.getProductsMini().then((data) => (products.value = data));
+    // ProductService.getProductsMini().then((data) => (products.value = data));
 });
 
 const products = ref();

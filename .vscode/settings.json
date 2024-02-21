@@ -1,0 +1,16 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "vetur.validation.template": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.format.enable": true,
+  "css.lint.unknownAtRules": "ignore",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "security.workspace.trust.enabled": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "vite.autoStart": false,
+  "vue.codeActions.enabled": false
+}
